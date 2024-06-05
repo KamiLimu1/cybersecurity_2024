@@ -8,7 +8,7 @@ concepts + osint + osr framework +  theharvester + api keys + foca + advanced go
 concepts + discovery scans + icmp echo + arp pings + host discovery + angry ip scanner + port scans + angry ip scanner + hping3 packet crafting + zenmap + nmap + host discovery with nmap + nmap version detection + idle (zombie) scan + ftp bounce scan + nmap scripts + firewall and ids evasion + nmap advanced scans + proxies  
 
 4: ENUMERATION
-smb_netbios_enumeration + hyena + file transfer enumeration + wmi enumeration + snmp enumeration + softperfect + ldap enumeration + dns enumeration + smtp enumeration + remote connection enumeration + website enumeration +  dirbuster 
+smb netbios enumeration + hyena + file transfer enumeration + wmi enumeration + snmp enumeration + softperfect + ldap enumeration + dns enumeration + smtp enumeration + remote connection enumeration + website enumeration +  dirbuster 
 
 5: VULNERABILITY ANALYSIS
 cveq + serianu + vpat + vulnerability scanning + openvas + vulnerability assessment + risk profiling + african trends 
