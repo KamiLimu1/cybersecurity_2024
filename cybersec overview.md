@@ -1,3 +1,5 @@
+***intro 
+
 1: INTRODUCTION TO INFORMATION SECURITY
 security elements + cyber kill chain + mitre att&ck framework + ethical hacking + information assurance + risk management + incident management + laws and standards
 
